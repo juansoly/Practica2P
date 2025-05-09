@@ -5,6 +5,7 @@ public class Main {
         ListaSimplementeEnlazada listaSimplementeEnlazada= new ListaSimplementeEnlazada();
 
         //insertar elementos a nuestra lista
+        listaSimplementeEnlazada.insertar(6);
         listaSimplementeEnlazada.insertar(5);
         listaSimplementeEnlazada.insertar(4);
         listaSimplementeEnlazada.insertar(3);
