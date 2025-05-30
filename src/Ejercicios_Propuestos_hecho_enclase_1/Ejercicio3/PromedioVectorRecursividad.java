@@ -1,4 +1,4 @@
-package Ejercicios.Ejercicio3;
+package Ejercicios_Propuestos_hecho_enclase_1.Ejercicio3;
 
 public class PromedioVectorRecursividad {
     public static int PromedioVector(int[] vector, int suma) {

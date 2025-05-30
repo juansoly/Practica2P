@@ -1,4 +1,4 @@
-package Ejercicios.Ejercicio1;
+package Ejercicios_Propuestos_hecho_enclase_1.Ejercicio1;
 
 public class SumaVectorRecursividad {
     public static int SumarElementos(int[] vector, int indice) {

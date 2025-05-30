@@ -1,4 +1,4 @@
-package Ejercicios.Ejercicio4;
+package Ejercicios_Propuestos_hecho_enclase_1.Ejercicio4;
 
 public class PorenciaDeUnNumero {
     public static  int potencia(int base, int exponente){

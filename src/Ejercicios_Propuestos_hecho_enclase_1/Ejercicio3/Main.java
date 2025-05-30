@@ -1,4 +1,4 @@
-package Ejercicios.Ejercicio3;
+package Ejercicios_Propuestos_hecho_enclase_1.Ejercicio3;
 
 public class Main extends PromedioVectorRecursividad {
     public static void main(String[]args){

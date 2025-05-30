@@ -1,4 +1,4 @@
-package Ejercicios.Ejercicio2;
+package Ejercicios_Propuestos_hecho_enclase_1.Ejercicio2;
 
 public class InvertirCadena {
 
